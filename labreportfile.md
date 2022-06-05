@@ -13,7 +13,8 @@ Each tests have different results, and the way I found this out was by searching
 This implementation works out fine, as we have a title and the links working. 
 
 The expected outputs did come out as actual outputs. 
-![Test-file.md output](test1%20code.png)  ![Test-file.md code](test1.png)
+
+Output: ![Test-file.md output](test1.png)  ![Test-file.md code](test1%20code.png)
 
 [test-file3.md](https://github.com/emubarka/cse15l-lab-report-5/blob/main/test-file3.md)
 [test-file5.md](https://github.com/emubarka/cse15l-lab-report-5/blob/main/test-file5.md)
